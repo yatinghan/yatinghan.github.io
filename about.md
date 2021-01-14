@@ -21,7 +21,7 @@ As the Top 1 high school in the City of Qingdao, my school failed to get its Eng
 
 I graduated a semester early for college, and I am on the track of graduating with a master's degree in four years. I highly discourage anyone without major constraints to do the same; there are many courses I wanted to take (like OS) but I didn't have the time.
 
-For a list of classes I took every semester, visit [TBD]().
+For a list of classes I took every semester, check out [this post]({% post_url 2021-01-14-undergrad-courses %}).
 
 ## Work
 ### Teaching Assistant

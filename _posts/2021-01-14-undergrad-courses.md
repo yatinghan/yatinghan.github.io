@@ -157,13 +157,50 @@ I was warned that Comp Arch is the ECE version of OS (definitely not true). As a
 9 Units
 
 ## AP Credits
-| AP                   | Number | Course  |
-| ---------------------|--------|---------|
-| Computer Science A   | 15-122 | Fundamentals of Programming and Computer Science |
-| Macro & Micro Econ   | 73-011 | AP ECONOMICS |
-| Calculus AB subscore | 21-120 | Differential and Integral Calculus |
-| Calculus BC          | 21-122 | Integration and Approximation |
-| Statistics           | 36-210 | Statistical Reasoning and Practice |
-| Chemistry            | 09-105 | Introduction to Modern Chemistry I |
-| Physics C: Mechanics | 33-141 | Physics I for Engineering Students |
-| Physics C: E&M       | 33-142 | Physics II for Engineering and Physics Students |
+<table>
+  <tr>
+    <th>Exam</th>
+    <th>Number</th>
+    <th>Course</th>
+  </tr>
+  <tr>
+    <td>Computer Science A</td>
+    <td>15-122</td>
+    <td>Fundamentals of Programming and Computer Science</td>
+  </tr>
+  <tr>
+    <td>Macro & Micro Econ</td>
+    <td>73-011</td>
+    <td>AP ECONOMICS</td>
+  </tr>
+  <tr>
+    <td>Calculus AB subscore </td>
+    <td>21-120</td>
+    <td>Differential and Integral Calculus</td>
+  </tr>
+  <tr>
+    <td>Calculus BC</td>
+    <td>21-122</td>
+    <td>Integration and Approximation</td>
+  </tr>
+  <tr>
+    <td>Statistics</td>
+    <td>36-201</td>
+    <td>Statistical Reasoning and Practice</td>
+  </tr>
+  <tr>
+    <td>Chemistry</td>
+    <td>09-105</td>
+    <td>Introduction to Modern Chemistry I</td>
+  </tr>
+  <tr>
+    <td>Physics C: Mechanics</td>
+    <td>33-141</td>
+    <td>Physics I for Engineering Students</td>
+  </tr>
+  <tr>
+    <td>Physics C: E&M</td>
+    <td>33-142</td>
+    <td>Physics II for Engineering and Physics Students</td>
+  </tr>
+</table>
