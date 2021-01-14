@@ -6,7 +6,7 @@ permalink:           /:categories/:year/:month/:day/:title/
 title:               Yating Han
 tagline:             ECE @ Carnegie Mellon
 description:         I am seinor (technically master) studying Electrical and Computer Engineering at CMU.  
-url:                 http://yatinghan.github.io
+url:                 //yatinghan.github.io
 baseurl:             ''
 paginate:            5
 paginate_path:       "/blog/page:num/"
@@ -17,6 +17,6 @@ plugins:          [jekyll-paginate]
 # About/contact
 author:
   name:              Yating Han
-  url:               http://yatinghan.github.io
-  github:            https://github.com/yatinghan
-  linkedin:          https://www.linkedin.com/in/yatinghan/
+  url:               //yatinghan.github.io
+  github:            //github.com/yatinghan
+  linkedin:          //www.linkedin.com/in/yatinghan/

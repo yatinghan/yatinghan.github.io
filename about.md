@@ -13,7 +13,7 @@ Hi there! My name is Yating Han and I'm a final-year student at Carnegie Mellon.
 Here is a list of schools I attended:
 * Master's: *Carnegie Mellon University* [[english]](https://www.cmu.edu/)
 * Bachelor's: *Carnegie Mellon University* [[english]](https://www.cmu.edu/)
-* High School: *Qingdao No.2 Middle School* [[chinese]](www.qderzhong.net)
+* High School: *Qingdao No.2 Middle School* [[chinese]](http://www.qderzhong.net)
 * Middle School: *Qingdao No.26 Middle School* [[chinese]](http://www.qd26.qdedu.net/index.aspx)
 * Elementary School: *Qingdao Experimental Primary School* [[chinese]](http://www.ssy.qdedu.net/index.aspx?pkId=479)
 
