@@ -7,7 +7,7 @@ description: A list of courses used to fulfill my B.S. in ECE. I'll try to add c
 ## Senior Fall
 *54 Units*
 
-All but one of the courses will count towards the master's degree.
+All but one of the courses will count towards the master's degree, you can find the rest in the [grad post]({% post_url 2021-01-14-grad-courses %}).
 * [82-173]({% post_url courses/2021-01-14-82173 %}) Introduction to Japanese I, *9 units*
 
 ## Junior Fall
