@@ -52,6 +52,6 @@ When I was a freshman, I worked as a Desk Attendant at Rez over winter break. Th
 ## Community Service 
 My biggest contribution to the CMU community is debugging code for 500 freshmen per semester, as stated in the TA section. I also taught lab and recitations and I think I did okay.
 
-I participated in World Vision Singapore Famine Camp 2016. We didn't have any food for 30 hours. The Camp contained many tasks like working for food, cleaning for elderly people, and fighting with other groups with resources. The world is indeed small. Our team was in the [highlight video](https://youtu.be/v-0Logx9IDU?t=125) at 2:05.
+I participated in World Vision Singapore Famine Camp 2016. We didn't have any food for 30 hours. The Camp contained many tasks like working for water, cleaning for elderly people, and fighting with other groups with resources. Our team was in the [highlight video](https://youtu.be/v-0Logx9IDU?t=125) at 2:05.
 
 When I was in Grade 10, I went to a pay-for-play Habitat trip in Sichuan Province, China. It was raining heavily all week and we did maybe 2 days of work. Nevertheless, it was quite touching to see how people lived there.
