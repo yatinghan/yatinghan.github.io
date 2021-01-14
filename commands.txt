@@ -1,0 +1,5 @@
+https://github.com/poole/lanyon
+
+docker run --env=DEBUG=true --rm --volume="/Users/yatinghan/jekyll-lanyon-example:/srv/jekyll" -it jekyll/jekyll:3.8 jekyll build
+
+docker run --name mydomain.com --env=DEBUG=true --rm --volume="$PWD:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:3.8 jekyll serve --watch --drafts
