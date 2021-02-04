@@ -14,9 +14,9 @@ All but one of the courses will count towards the master's degree.
 
 ## Senior Spring aka Master
 *39 Units*
+* 18-709 Advanced Clound Computing, *12 units*
 * 18-741 Computer Networks, *12 units*
-* 18-742 Computer Architecture and Systems, *12 units*
-* 10-601 Introduction to Machine Learning (Master's), *12 units*
+* 15-650 Algorithms & Advanced Data Structures, *12 units*
 * 24-200 Maker Series: Intro to Manual Machining, *1 unit*
 * 24-300 Fundamentals of CNC Machining, *2 units*
 
