@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I'm Lazy
+hidden: true
 description: School is busy and I write intermittently. My friend and recitation partner Kayla writes great posts about her CMU/CS/Psych life. Check out her blog too!
 ---
 
