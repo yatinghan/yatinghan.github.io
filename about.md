@@ -24,6 +24,10 @@ I graduated a semester early for college, and I am on the track of graduating wi
 For a list of classes I took every semester, check out [this post]({% post_url 2021-01-14-undergrad-courses %}).
 
 ## Work
+
+### Current: Software Engineer at DoorDash
+I am in the Payin team at DoorDash since June 2022. Prior, I worked on Revenue Platform team for about 11 months.
+
 ### Teaching Assistant
 I was a 5-time TA for [a major CS course](https://www.cs.cmu.edu/~15122/) at CMU, from Spring 2019 to Fall 2020. The instrustors are [Iliano Cervesato](https://www.cs.cmu.edu/~iliano/) and [Dilsun Kaynar](http://www.cs.cmu.edu/~dilsun/). The course is required for all SCS and ECE students and a few other majors as well. It teaches data structures and algorithms.
 

@@ -7,9 +7,9 @@ title: Home
 
 ### My name is Yating Han.
 
-### I'm a student at Carnegie Mellon.
-
 ### I am a Software Developer at DoorDash.
+
+### I was a student at Carnegie Mellon.
 
 ### [Here]({% link about.md %})'s a lot more about me.
 
